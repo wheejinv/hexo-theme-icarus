@@ -257,7 +257,7 @@ widgets:
         position: #애드센스 가입 하면 left로
         type: adsense
         # AdSense client ID
-        client_id: ''
+        client_id: 'ca-pub-3818859618098893'
         # AdSense AD unit ID
         slot_id: ''
 # Plugin configurations
