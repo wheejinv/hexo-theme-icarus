@@ -15,7 +15,9 @@ module.exports = class extends Component {
         const columnCount = Widgets.getColumnCount(config.widgets);
 
         return <html lang={language ? language.substr(0, 2) : ''}>
-            <Head env={env} site={site} config={config} helper={helper} page={page} />
+            <Head env={env} site={site} config={config} helper={helper} page={page}>
+                <script data-ad-client="ca-pub-3818859618098893" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            </Head>
             <body class={`is-${columnCount}-column`}>
                 <Navbar config={config} helper={helper} page={page} />
                 <section class="section">
