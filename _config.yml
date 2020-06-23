@@ -186,11 +186,11 @@ widgets:
         # URL or path to the avatar image
         avatar: https://wheejinv.github.io/images/whee_avatar.jpg
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar:
         # URL or path for the follow button
-        follow_link: 'https://github.com/ppoffice'
+#        follow_link: 'https://github.com/ppoffice'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
