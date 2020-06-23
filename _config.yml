@@ -79,10 +79,10 @@ navbar:
         Tags: /tags
         About: /about
     # Links to be shown on the right of the navigation bar
-    links:
-        Download on GitHub:
-            icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+#    links:
+#        Download on GitHub:
+#            icon: fab fa-github
+#            url: 'https://github.com/ppoffice/hexo-theme-icarus'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -195,33 +195,33 @@ widgets:
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/ppoffice'
-            Facebook:
-                icon: fab fa-facebook
-                url: 'https://facebook.com'
-            Twitter:
-                icon: fab fa-twitter
-                url: 'https://twitter.com'
-            Dribbble:
-                icon: fab fa-dribbble
-                url: 'https://dribbble.com'
-            RSS:
-                icon: fas fa-rss
-                url: /
+                url: 'https://github.com/wheejinv'
+#            Facebook:
+#                icon: fab fa-facebook
+#                url: 'https://facebook.com'
+#            Twitter:
+#                icon: fab fa-twitter
+#                url: 'https://twitter.com'
+#            Dribbble:
+#                icon: fab fa-dribbble
+#                url: 'https://dribbble.com'
+#            RSS:
+#                icon: fas fa-rss
+#                url: /
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
         type: toc
     # Recommendation links widget configurations
-    -
+#    -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: links
+#        position: left
+#        type: links
         # Names and URLs of the sites
-        links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+#        links:
+#            Hexo: 'https://hexo.io'
+#            Bulma: 'https://bulma.io'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -243,14 +243,14 @@ widgets:
         position: left
         type: tags
     # Google FeedBurner email subscription widget configurations
-    -
+#    -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: subscribe_email
+#        position: left
+#        type: subscribe_email
         # Hint text under the email input
-        description:
+#        description:
         # Feedburner ID
-        feedburner_id: ''
+#        feedburner_id: ''
     # Google AdSense unit configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
