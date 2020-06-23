@@ -18,7 +18,7 @@ widget:
     recents: '최근 글'
     links: '링크'
     tag_cloud: '태그 클라우드'
-    catalogue: '카탈로그'
+    catalogue: 'Table Of Contents'
 article:
     more: '자세히 보기'
     comments: '댓글'
